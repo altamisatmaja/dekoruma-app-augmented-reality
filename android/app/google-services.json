@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783318956357",
+    "project_id": "dekoruma-flutter-ar",
+    "storage_bucket": "dekoruma-flutter-ar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783318956357:android:4c27fd8f634f981d64e62c",
+        "android_client_info": {
+          "package_name": "com.example.dekoruma_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_c0xk8AtIpcmi_QE0R4ykAzhhZErleZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
